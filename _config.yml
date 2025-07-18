@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Xue Kong"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Xue Kong"
@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "A composer and researcher working at the intersection of music, mathematics, and computation to explore new forms of algorithmic expression."
+  location         : "China"
+  email            : suby_kong@sdau.edu.cn
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
